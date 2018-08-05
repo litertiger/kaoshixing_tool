@@ -1,1 +1,1 @@
-"# kaoshixing_tool" 
+这是一个Java的Eclipse工程，部分使用Groovy代码
