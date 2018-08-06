@@ -1,1 +1,3 @@
 这是一个Java的Eclipse工程，部分使用Groovy代码
+
+详细使用看工程下面的帮助word
